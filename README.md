@@ -15,6 +15,6 @@ A 360 hour experience
 
 360 day training to become a health node
 
-Connect with a health node: open a lightning channel with them
+Connect with a validated health node for help by opening a lightning payment channel with them
 
-Proof of concept: Foot Nerd Experience
+Proof of concept: FNP
