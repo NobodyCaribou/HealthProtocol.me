@@ -7,14 +7,15 @@ A global network
 
 P2P marketplace
 
-Health node validation protocol. Done to become a health guide and contribute to the protocol.
+Health node validation protocol. Done to become a health guide (help others, contribute to the protocol)
 
 A FOSS project
 
 A 360 hour experience
 
-360 day training to become a health node
+360 day training to become a sovereign health node
 
 Connect with a validated health node for help by opening a lightning payment channel with them
 
-Proof of concept: FNP
+Current protocol experiences offered:
+- Foot Nerd Experience (www.tfcFootNerd.com)
