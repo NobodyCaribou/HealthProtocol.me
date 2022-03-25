@@ -6,7 +6,7 @@ A global network & P2P help marketplace
 
 Health node validation protocol: done to become a Health guide (help others, contribute to the protocol)
 
-A FOSS project. A 360 hour commitment. Become a sovereign health node in 360 days
+A FOSS project. A 280 hour commitment. Become a sovereign health node in 280 days
 
 Connect with a validated health node for help by opening a lightning payment channel with them
 
